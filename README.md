@@ -3,7 +3,7 @@
 A responsive, beginner-friendly demonstration of a youth mentorship website. It
 introduces mentorship, practical digital skills, personal growth and community
 projects through fictional sample content. Built with plain HTML, CSS and
-JavaScript, with no framework, package installation or backend required.
+JavaScript, with no framework, package installation or backend required..
 
 ## Screenshot
 
